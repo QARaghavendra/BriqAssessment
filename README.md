@@ -37,4 +37,7 @@ Step 4: Start Working
     Explore the Project:
         Once the project is imported, you can explore its structure in the "Package Explorer" or "Project Explorer" view in Eclipse.
 
+## run Download.java  as TestNG Test
+## run ReadDataFromWebAPI2 as TestNG Test
+## run ReadTable.java as java application
 
